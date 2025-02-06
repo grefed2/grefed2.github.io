@@ -11,17 +11,17 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Docs"
+  name = "Home"
   pageRef = "docs"
   weight = 10
 
 [[main]]
-  name = "questo"
+  name = "Acquista pop corn"
   pageRef = "docs/shortcodes"
   weight = 15
 
 [[main]]
-  name = "Examples"
+  name = "Categorie"
   weight = 20
 
 [[main]]
