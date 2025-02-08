@@ -7,8 +7,9 @@ baseURL = "https://grefed2.github.io"
 defaultContentLanguage = "en"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
+
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
-publishDir = "docs"
+publishDir = "ciao"
 enableRobotsTXT = true
 summaryLength = 30
 hasCJKLanguage = true
