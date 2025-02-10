@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Ciao"
-  pageRef = "docs/shortcodes"
+  pageRef = "ciao"
   weight = 10
 
 [[main]]
