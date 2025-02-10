@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "..."
-  pageRef = "..."
+  name = "Coppola_di_cazzo"
+  pageRef = "docs/shortcodes"
   weight = 10
 
 [[main]]
