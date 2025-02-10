@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "ciao"
-  pageRef = "ciao"
+  name = "..."
+  pageRef = "..."
   weight = 10
 
 [[main]]
