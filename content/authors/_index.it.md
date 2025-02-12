@@ -1,5 +1,6 @@
 ---
-title: "Esempio di elenco di tassonomia degli autori"
-
+title: "Hopcorn - Il Popcorn Gourmet"
+description: "Scopri il gusto autentico del popcorn di qualità."
+hero_cta: "Acquista Ora"
+hero_cta_link: "/shop"
 ---
-Un rapido esempio di come iniziare a utilizzare le tassonomie degli autori nei tuoi articoli.

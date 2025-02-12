@@ -160,3 +160,6 @@ smartTOCHideUnfocusedChildren = false
 [rssnext]
   # feedId = ""
   # userId = ""
+
+  title = "Hopcorn - Il Popcorn Gourmet"
+  description = "Scopri il gusto autentico del popcorn di qualità, croccante e delizioso."

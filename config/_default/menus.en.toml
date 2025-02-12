@@ -11,7 +11,7 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "va bene"
+  name = "Home"
   pageRef = "docs"
   weight = 10
 
@@ -22,6 +22,7 @@
 
 [[main]]
   name = "Categorie"
+  pageRef = "docs/categories"
   weight = 20
 
 [[main]]
