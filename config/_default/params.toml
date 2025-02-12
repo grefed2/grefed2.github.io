@@ -163,3 +163,6 @@ smartTOCHideUnfocusedChildren = false
 
   title = "Hopcorn - Il Popcorn Gourmet"
   description = "Scopri il gusto autentico del popcorn di qualità, croccante e delizioso."
+
+  [params]
+  showFeaturedImage = true
