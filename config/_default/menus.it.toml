@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Categorie"
-  pageRef = "docs/categories"
+  pageRef = "categories"
   weight = 20
 
 [[main]]
