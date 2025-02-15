@@ -16,12 +16,12 @@
   weight = 10
 
 [[main]]
-  name = "Acquista pop corn"
+  name = "Buy popcorn"
   pageRef = "docs/shortcodes"
   weight = 15
 
 [[main]]
-  name = "Categorie"
+  name = "Categories"
   pageRef = "docs/categories"
   weight = 20
 
