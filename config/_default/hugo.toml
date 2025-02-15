@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://grefed2.github.io"
-defaultContentLanguage = "en"
+defaultContentLanguage = "it"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
 
