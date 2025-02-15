@@ -1873,6 +1873,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://grefed2.github.io/authors/categories/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://grefed2.github.io/tags/views/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
