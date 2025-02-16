@@ -166,6 +166,6 @@ smartTOCHideUnfocusedChildren = false
 
   [params]
   showFeaturedImage = true
-  logo = "/img/HopCorn-color-version-2-mod-300523-2.png" # Percorso del tuo logo personalizzato
+  logo = "/static/HopCorn-color-version-2-mod-300523-2.png" # Percorso del tuo logo personalizzato
   favicon = "/img/HopCorn-color-version-2-mod-300523-2.ico" # Percorso della favicon
   backgroundColor = "#ffffff"
